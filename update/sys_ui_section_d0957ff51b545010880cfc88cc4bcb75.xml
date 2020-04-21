@@ -4,13 +4,13 @@
             <element>line_item_number</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-04-21 22:10:01</sys_created_on>
-            <sys_id>99babb3d1b545010880cfc88cc4bcb81</sys_id>
+            <sys_created_on>2020-04-21 22:34:54</sys_created_on>
+            <sys_id>e560cc421b945010880cfc88cc4bcb32</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Order Form" display_value="Order Form" name="x_482391_psd_procu_psd_procurement_table" sys_domain="global" view="Default view">d0957ff51b545010880cfc88cc4bcb75</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-04-21 22:10:01</sys_updated_on>
+            <sys_updated_on>2020-04-21 22:34:54</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -18,181 +18,181 @@
             <element>item_quantity</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-04-21 22:10:01</sys_created_on>
-            <sys_id>1dbabb3d1b545010880cfc88cc4bcb81</sys_id>
+            <sys_created_on>2020-04-21 22:34:54</sys_created_on>
+            <sys_id>6960cc421b945010880cfc88cc4bcb32</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Order Form" display_value="Order Form" name="x_482391_psd_procu_psd_procurement_table" sys_domain="global" view="Default view">d0957ff51b545010880cfc88cc4bcb75</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-04-21 22:10:01</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>item_name</element>
-            <position>2</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-04-21 22:10:01</sys_created_on>
-            <sys_id>9dbabb3d1b545010880cfc88cc4bcb81</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="Order Form" display_value="Order Form" name="x_482391_psd_procu_psd_procurement_table" sys_domain="global" view="Default view">d0957ff51b545010880cfc88cc4bcb75</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-04-21 22:10:01</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>item_unit</element>
-            <position>3</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-04-21 22:10:01</sys_created_on>
-            <sys_id>11babb3d1b545010880cfc88cc4bcb82</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="Order Form" display_value="Order Form" name="x_482391_psd_procu_psd_procurement_table" sys_domain="global" view="Default view">d0957ff51b545010880cfc88cc4bcb75</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-04-21 22:10:01</sys_updated_on>
+            <sys_updated_on>2020-04-21 22:34:54</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>u_choice_4</element>
-            <position>4</position>
+            <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-04-21 22:10:01</sys_created_on>
-            <sys_id>91babb3d1b545010880cfc88cc4bcb82</sys_id>
+            <sys_created_on>2020-04-21 22:34:54</sys_created_on>
+            <sys_id>e960cc421b945010880cfc88cc4bcb32</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Order Form" display_value="Order Form" name="x_482391_psd_procu_psd_procurement_table" sys_domain="global" view="Default view">d0957ff51b545010880cfc88cc4bcb75</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-04-21 22:10:01</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>property_tag</element>
-            <position>5</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-04-21 22:10:01</sys_created_on>
-            <sys_id>15babb3d1b545010880cfc88cc4bcb82</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="Order Form" display_value="Order Form" name="x_482391_psd_procu_psd_procurement_table" sys_domain="global" view="Default view">d0957ff51b545010880cfc88cc4bcb75</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-04-21 22:10:01</sys_updated_on>
+            <sys_updated_on>2020-04-21 22:34:54</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>item_vendor_name</element>
-            <position>6</position>
+            <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-04-21 22:10:01</sys_created_on>
-            <sys_id>95babb3d1b545010880cfc88cc4bcb82</sys_id>
+            <sys_created_on>2020-04-21 22:34:54</sys_created_on>
+            <sys_id>6d60cc421b945010880cfc88cc4bcb32</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Order Form" display_value="Order Form" name="x_482391_psd_procu_psd_procurement_table" sys_domain="global" view="Default view">d0957ff51b545010880cfc88cc4bcb75</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-04-21 22:10:01</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>part_number</element>
-            <position>7</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-04-21 22:10:01</sys_created_on>
-            <sys_id>19babb3d1b545010880cfc88cc4bcb82</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="Order Form" display_value="Order Form" name="x_482391_psd_procu_psd_procurement_table" sys_domain="global" view="Default view">d0957ff51b545010880cfc88cc4bcb75</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-04-21 22:10:01</sys_updated_on>
+            <sys_updated_on>2020-04-21 22:34:54</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>item_unit_price</element>
-            <position>8</position>
+            <position>4</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-04-21 22:10:01</sys_created_on>
-            <sys_id>99babb3d1b545010880cfc88cc4bcb82</sys_id>
+            <sys_created_on>2020-04-21 22:34:54</sys_created_on>
+            <sys_id>ed60cc421b945010880cfc88cc4bcb32</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Order Form" display_value="Order Form" name="x_482391_psd_procu_psd_procurement_table" sys_domain="global" view="Default view">d0957ff51b545010880cfc88cc4bcb75</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-04-21 22:10:01</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>item_shipping_cost</element>
-            <position>9</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-04-21 22:10:01</sys_created_on>
-            <sys_id>1dbabb3d1b545010880cfc88cc4bcb82</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="Order Form" display_value="Order Form" name="x_482391_psd_procu_psd_procurement_table" sys_domain="global" view="Default view">d0957ff51b545010880cfc88cc4bcb75</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-04-21 22:10:01</sys_updated_on>
+            <sys_updated_on>2020-04-21 22:34:54</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>item_quote_provided</element>
-            <position>10</position>
+            <position>5</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-04-21 22:10:01</sys_created_on>
-            <sys_id>9dbabb3d1b545010880cfc88cc4bcb82</sys_id>
+            <sys_created_on>2020-04-21 22:34:54</sys_created_on>
+            <sys_id>6160cc421b945010880cfc88cc4bcb33</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Order Form" display_value="Order Form" name="x_482391_psd_procu_psd_procurement_table" sys_domain="global" view="Default view">d0957ff51b545010880cfc88cc4bcb75</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-04-21 22:10:01</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>item_url</element>
-            <position>11</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-04-21 22:10:01</sys_created_on>
-            <sys_id>11babb3d1b545010880cfc88cc4bcb83</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="Order Form" display_value="Order Form" name="x_482391_psd_procu_psd_procurement_table" sys_domain="global" view="Default view">d0957ff51b545010880cfc88cc4bcb75</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-04-21 22:10:01</sys_updated_on>
+            <sys_updated_on>2020-04-21 22:34:54</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>comments</element>
-            <position>12</position>
+            <position>6</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-04-21 22:10:01</sys_created_on>
-            <sys_id>91babb3d1b545010880cfc88cc4bcb83</sys_id>
+            <sys_created_on>2020-04-21 22:34:54</sys_created_on>
+            <sys_id>e160cc421b945010880cfc88cc4bcb33</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Order Form" display_value="Order Form" name="x_482391_psd_procu_psd_procurement_table" sys_domain="global" view="Default view">d0957ff51b545010880cfc88cc4bcb75</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-04-21 22:10:01</sys_updated_on>
+            <sys_updated_on>2020-04-21 22:34:54</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>attachment</element>
-            <position>13</position>
+            <element>.split</element>
+            <position>7</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-04-21 22:10:01</sys_created_on>
-            <sys_id>15babb3d1b545010880cfc88cc4bcb83</sys_id>
+            <sys_created_on>2020-04-21 22:34:54</sys_created_on>
+            <sys_id>6560cc421b945010880cfc88cc4bcb33</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Order Form" display_value="Order Form" name="x_482391_psd_procu_psd_procurement_table" sys_domain="global" view="Default view">d0957ff51b545010880cfc88cc4bcb75</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-04-21 22:10:01</sys_updated_on>
+            <sys_updated_on>2020-04-21 22:34:54</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>item_unit</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-04-21 22:34:54</sys_created_on>
+            <sys_id>e560cc421b945010880cfc88cc4bcb33</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Order Form" display_value="Order Form" name="x_482391_psd_procu_psd_procurement_table" sys_domain="global" view="Default view">d0957ff51b545010880cfc88cc4bcb75</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-04-21 22:34:54</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>item_name</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-04-21 22:34:54</sys_created_on>
+            <sys_id>6960cc421b945010880cfc88cc4bcb33</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Order Form" display_value="Order Form" name="x_482391_psd_procu_psd_procurement_table" sys_domain="global" view="Default view">d0957ff51b545010880cfc88cc4bcb75</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-04-21 22:34:54</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>property_tag</element>
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-04-21 22:34:54</sys_created_on>
+            <sys_id>e960cc421b945010880cfc88cc4bcb33</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Order Form" display_value="Order Form" name="x_482391_psd_procu_psd_procurement_table" sys_domain="global" view="Default view">d0957ff51b545010880cfc88cc4bcb75</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-04-21 22:34:54</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>part_number</element>
+            <position>11</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-04-21 22:34:54</sys_created_on>
+            <sys_id>6d60cc421b945010880cfc88cc4bcb33</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Order Form" display_value="Order Form" name="x_482391_psd_procu_psd_procurement_table" sys_domain="global" view="Default view">d0957ff51b545010880cfc88cc4bcb75</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-04-21 22:34:54</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>item_shipping_cost</element>
+            <position>12</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-04-21 22:34:54</sys_created_on>
+            <sys_id>ed60cc421b945010880cfc88cc4bcb33</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Order Form" display_value="Order Form" name="x_482391_psd_procu_psd_procurement_table" sys_domain="global" view="Default view">d0957ff51b545010880cfc88cc4bcb75</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-04-21 22:34:54</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>item_url</element>
+            <position>13</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-04-21 22:34:54</sys_created_on>
+            <sys_id>6160cc421b945010880cfc88cc4bcb34</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Order Form" display_value="Order Form" name="x_482391_psd_procu_psd_procurement_table" sys_domain="global" view="Default view">d0957ff51b545010880cfc88cc4bcb75</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-04-21 22:34:54</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
