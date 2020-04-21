@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="PSD Procurement Table" max_length="40" name="x_482391_psd_procu_psd_procurement_table" type="collection">
+        <element label="Attachment" max_length="40" name="attachment" type="file_attachment"/>
+        <element label="Comments" max_length="4000" name="comments" type="journal"/>
+        <element label="Date Needed By" mandatory="true" max_length="50" name="date_needed_by" type="glide_date"/>
+        <element label="Date &amp; Time Submitted" mandatory="true" max_length="50" name="date_time_submitted" type="glide_date_time"/>
+        <element label="Delivery Location (building/room):" mandatory="true" max_length="100" name="delivery_location_building_room" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Item" max_length="40" name="item_name" type="string"/>
+        <element label="Quantity" mandatory="true" max_length="40" name="item_quantity" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" default="no" label="Attachment/Quote Provided Y/N" max_length="40" name="item_quote_provided" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Yes" sequence="0" value="yes"/>
+                <element inactive_on_update="false" label="No" sequence="1" value="no"/>
+            </choice>
+        </element>
+        <element attributes="omit_sys_original=true" label="Shipping Cost" max_length="20" name="item_shipping_cost" type="currency"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" default="each" label="Unit" max_length="40" name="item_unit" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Pack" sequence="0" value="pack"/>
+                <element inactive_on_update="false" label="Each" sequence="1" value="each"/>
+                <element inactive_on_update="false" label="Box" sequence="2" value="box"/>
+            </choice>
+        </element>
+        <element attributes="omit_sys_original=true" label="Unit Price" max_length="20" name="item_unit_price" type="currency"/>
+        <element attributes="edge_encryption_enabled=true" label="Website (URL)" max_length="1024" name="item_url" type="url"/>
+        <element attributes="edge_encryption_enabled=true" label="Vendor Name" max_length="40" name="item_vendor_name" type="string"/>
+        <element label="Line Item Number" mandatory="true" max_length="40" name="line_item_number" type="integer"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Part Number" max_length="40" name="part_number" type="string"/>
+        <element choice="3" label="Project Number" mandatory="true" max_length="50" name="project_number" reference="x_482391_psd_procu_projects" reference_qual="project_numberSTARTSWITH^EQ" reference_qual_condition="project_numberSTARTSWITH^EQ" type="reference">
+            <choice/>
+        </element>
+        <element display="true" label="Project Task" mandatory="true" max_length="32" name="project_task" reference="x_482391_psd_procu_project_task" reference_qual="task_numberSTARTSWITH^EQ" reference_qual_condition="task_numberSTARTSWITH^EQ" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" dependent="u_choice_4" dependent_on_field="u_choice_4" label="Property Tag#" max_length="40" name="property_tag" type="string" use_dependent_field="true"/>
+        <element label="Requestor Name" mandatory="true" max_length="50" name="requestor_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="no" label="IT Replenishment? Y/N" mandatory="true" max_length="40" name="u_choice_4" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Yes" sequence="0" value="yes"/>
+                <element inactive_on_update="false" label="No" sequence="1" value="no"/>
+            </choice>
+        </element>
+        <index name="index">
+            <element name="project_task"/>
+        </index>
+    </element>
+</database>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="u_choice_4" table="x_482391_psd_procu_psd_procurement_table" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_choice_4</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Yes</label>
+            <language>en</language>
+            <name>x_482391_psd_procu_psd_procurement_table</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-04-21 22:00:26</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>fc887bb91b545010880cfc88cc4bcb9f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-04-21 22:00:26</sys_updated_on>
+            <value>yes</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_choice_4</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>No</label>
+            <language>en</language>
+            <name>x_482391_psd_procu_psd_procurement_table</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-04-21 22:00:26</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>30887bb91b545010880cfc88cc4bcba1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-04-21 22:00:26</sys_updated_on>
+            <value>no</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>u_choice_4</element>
+            <name>x_482391_psd_procu_psd_procurement_table</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-04-21 22:00:26</sys_created_on>
+            <sys_id>38887bb91b545010880cfc88cc4bcba0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>u_choice_4</sys_name>
+            <sys_package display_value="PSD Procurement" source="x_482391_psd_procu">189cdfb51b505010880cfc88cc4bcb53</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="PSD Procurement">189cdfb51b505010880cfc88cc4bcb53</sys_scope>
+            <sys_update_name>sys_choice_x_482391_psd_procu_psd_procurement_table_u_choice_4</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-04-21 22:00:26</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

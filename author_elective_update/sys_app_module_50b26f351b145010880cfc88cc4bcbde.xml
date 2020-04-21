@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="PSD Procurement">5c9c13bd1bd05010880cfc88cc4bcb3b</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Project Tasks</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_482391_psd_procu_project_task</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>x_482391_psd_procu.user</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-21 20:25:06</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>50b26f351b145010880cfc88cc4bcbde</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Project Tasks</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="PSD Procurement" source="x_482391_psd_procu">189cdfb51b505010880cfc88cc4bcb53</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="PSD Procurement">189cdfb51b505010880cfc88cc4bcb53</sys_scope>
+        <sys_update_name>sys_app_module_50b26f351b145010880cfc88cc4bcbde</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-21 20:25:06</sys_updated_on>
+        <timeline_page/>
+        <title>Project Tasks</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="PSD Procurement">189cdfb51b505010880cfc88cc4bcb53</application>
+        <file_path/>
+        <instance_id>2755a7e1db183700b847ac44d496191e</instance_id>
+        <instance_name>dev76199</instance_name>
+        <name>sys_app_module_50b26f351b145010880cfc88cc4bcbde</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="PSD Procurement">5c9c13bd1bd05010880cfc88cc4bcb3b</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>Project Tasks</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_482391_psd_procu_project_task</name><order/><override_menu_roles>false</override_menu_roles><query/><report/><roles>x_482391_psd_procu.user</roles><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-04-21 20:25:06</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>50b26f351b145010880cfc88cc4bcbde</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Project Tasks</sys_name><sys_overrides/><sys_package display_value="PSD Procurement" source="x_482391_psd_procu">189cdfb51b505010880cfc88cc4bcb53</sys_package><sys_policy/><sys_scope display_value="PSD Procurement">189cdfb51b505010880cfc88cc4bcb53</sys_scope><sys_update_name>sys_app_module_50b26f351b145010880cfc88cc4bcbde</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-04-21 20:25:06</sys_updated_on><timeline_page/><title>Project Tasks</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>1681643690</payload_hash>
+        <record_name>Project Tasks</record_name>
+        <reverted_from/>
+        <source>989c13bd1bd05010880cfc88cc4bcb9e</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-21 20:25:06</sys_created_on>
+        <sys_id>10b26f351b145010880cfc88cc4bcbe0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1719e6a6b720000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-21 20:25:06</sys_updated_on>
+        <type>Module</type>
+        <update_guid>58b26f3524145010eb8e26f71aa601df</update_guid>
+        <update_guid_history>58b26f3524145010eb8e26f71aa601df:1681643690</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Project Tasks">6d03ab751b145010880cfc88cc4bcb73</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-21 20:26:33</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>2c15fbf1392c4ea5a1ac4c93ca39d5c9</sys_id>
+        <sys_metadata>50b26f351b145010880cfc88cc4bcbde</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Project Tasks</sys_name>
+        <sys_package display_value="PSD Procurement" source="x_482391_psd_procu">189cdfb51b505010880cfc88cc4bcb53</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="PSD Procurement">189cdfb51b505010880cfc88cc4bcb53</sys_scope>
+        <sys_scope_delete display_value="">4006c2f34759481e906572c756151c79</sys_scope_delete>
+        <sys_update_name>sys_app_module_50b26f351b145010880cfc88cc4bcbde</sys_update_name>
+        <sys_update_version display_value="sys_app_module_50b26f351b145010880cfc88cc4bcbde">10b26f351b145010880cfc88cc4bcbe0</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-21 20:26:33</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
