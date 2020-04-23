@@ -4,13 +4,13 @@
             <element>process_flow.xml</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-04-23 17:40:15</sys_created_on>
-            <sys_id>fc20592a1b501010880cfc88cc4bcb20</sys_id>
+            <sys_created_on>2020-04-23 19:36:11</sys_created_on>
+            <sys_id>43aa69621bd01010880cfc88cc4bcbdf</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter display_value="Process Flow">75b405ea1b101010880cfc88cc4bcbdf</sys_ui_formatter>
             <sys_ui_section caption="New Order" display_value="New Order" name="x_482391_psd_procu_psd_procurement_table" sys_domain="global" view="Default view">1465cd6e1b101010880cfc88cc4bcb41</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-04-23 17:40:15</sys_updated_on>
+            <sys_updated_on>2020-04-23 19:36:11</sys_updated_on>
             <sys_user/>
             <type>formatter</type>
         </sys_ui_element>
