@@ -37,6 +37,7 @@
                 <element inactive_on_update="false" label="Ordered" sequence="1" value="ordered"/>
                 <element inactive_on_update="false" label="Returned" sequence="2" value="returned"/>
                 <element inactive_on_update="false" label="Cancelled" sequence="3" value="cancelled"/>
+                <element inactive_on_update="false" label="Closed" sequence="4" value="closed"/>
             </choice>
         </element>
         <element attributes="edge_encryption_enabled=true" label="Comments" max_length="4000" name="order_status_comments" type="journal"/>
