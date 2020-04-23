@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_documentation element="date_time_submitted" label="Date &amp; Time Submitted" language="en" table="x_482391_psd_procu_psd_procurement_table">
+    <sys_documentation element="u_journal_1" label="New Journal" language="en" table="x_482391_psd_procu_psd_procurement_table">
         <sys_documentation action="INSERT_OR_UPDATE">
-            <element>date_time_submitted</element>
+            <element>u_journal_1</element>
             <help/>
             <hint/>
-            <label>Date &amp; Time Submitted</label>
+            <label>New Journal</label>
             <language>en</language>
             <name>x_482391_psd_procu_psd_procurement_table</name>
-            <plural>Date &amp; Time Submitted</plural>
+            <plural>New Journals</plural>
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-04-21 20:07:16</sys_created_on>
-            <sys_id>879e5b311b145010880cfc88cc4bcb10</sys_id>
+            <sys_created_on>2020-04-23 17:19:57</sys_created_on>
+            <sys_id>eb7b8de21b501010880cfc88cc4bcb53</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_name>Date &amp; Time Submitted</sys_name>
+            <sys_name>New Journal</sys_name>
             <sys_package display_value="PSD Procurement" source="x_482391_psd_procu">189cdfb51b505010880cfc88cc4bcb53</sys_package>
             <sys_policy/>
             <sys_scope display_value="PSD Procurement">189cdfb51b505010880cfc88cc4bcb53</sys_scope>
-            <sys_update_name>sys_documentation_x_482391_psd_procu_psd_procurement_table_date_time_submitted_en</sys_update_name>
+            <sys_update_name>sys_documentation_x_482391_psd_procu_psd_procurement_table_u_journal_1_en</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-04-21 20:07:16</sys_updated_on>
+            <sys_updated_on>2020-04-23 17:19:57</sys_updated_on>
             <url/>
             <url_target/>
         </sys_documentation>

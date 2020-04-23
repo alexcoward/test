@@ -4,15 +4,29 @@
             <element>attachment</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-04-21 22:35:30</sys_created_on>
-            <sys_id>568040821b945010880cfc88cc4bcbe1</sys_id>
+            <sys_created_on>2020-04-23 16:17:23</sys_created_on>
+            <sys_id>7a2d70a61b101010880cfc88cc4bcb63</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Attachments" display_value="Attachments" name="x_482391_psd_procu_psd_procurement_table" sys_domain="global" view="Default view">e1608c421b945010880cfc88cc4bcbb0</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-04-21 22:35:30</sys_updated_on>
+            <sys_updated_on>2020-04-23 16:17:23</sys_updated_on>
             <sys_user/>
             <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-04-23 16:17:23</sys_created_on>
+            <sys_id>fa2d70a61b101010880cfc88cc4bcb63</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Attachments" display_value="Attachments" name="x_482391_psd_procu_psd_procurement_table" sys_domain="global" view="Default view">e1608c421b945010880cfc88cc4bcbb0</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-04-23 16:17:23</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
         </sys_ui_element>
         <sys_ui_section action="INSERT_OR_UPDATE">
             <caption>Attachments</caption>

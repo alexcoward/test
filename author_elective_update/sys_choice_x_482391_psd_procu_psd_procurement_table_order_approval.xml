@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="order_approval" table="x_482391_psd_procu_psd_procurement_table" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>order_approval</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Yes</label>
+            <language>en</language>
+            <name>x_482391_psd_procu_psd_procurement_table</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-04-23 16:26:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d35ff02a1b101010880cfc88cc4bcbc0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-04-23 16:26:58</sys_updated_on>
+            <value>yes</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>order_approval</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>No ( You must have manager approval in order to place an order )</label>
+            <language>en</language>
+            <name>x_482391_psd_procu_psd_procurement_table</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-04-23 16:26:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>175ff02a1b101010880cfc88cc4bcbc1</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-04-23 17:13:22</sys_updated_on>
+            <value>no</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>order_approval</element>
+            <name>x_482391_psd_procu_psd_procurement_table</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-04-23 16:26:58</sys_created_on>
+            <sys_id>1f5ff02a1b101010880cfc88cc4bcbc0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>order_approval</sys_name>
+            <sys_package display_value="PSD Procurement" source="x_482391_psd_procu">189cdfb51b505010880cfc88cc4bcb53</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="PSD Procurement">189cdfb51b505010880cfc88cc4bcb53</sys_scope>
+            <sys_update_name>sys_choice_x_482391_psd_procu_psd_procurement_table_order_approval</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-04-23 16:26:58</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="New Section" section_id="c36c34661b101010880cfc88cc4bcb0d" sys_domain="global" table="x_482391_psd_procu_psd_procurement_table" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>order_status</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-04-23 16:15:58</sys_created_on>
+            <sys_id>9adcf8661b101010880cfc88cc4bcb11</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_482391_psd_procu_psd_procurement_table" sys_domain="global" view="Default view">c36c34661b101010880cfc88cc4bcb0d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-04-23 16:15:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption>New Section</caption>
+            <header>false</header>
+            <name>x_482391_psd_procu_psd_procurement_table</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-04-23 16:14:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c36c34661b101010880cfc88cc4bcb0d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>New Section</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="PSD Procurement" source="x_482391_psd_procu">189cdfb51b505010880cfc88cc4bcb53</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="PSD Procurement">189cdfb51b505010880cfc88cc4bcb53</sys_scope>
+            <sys_update_name>sys_ui_section_c36c34661b101010880cfc88cc4bcb0d</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-04-23 16:14:07</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="PSD Procurement">189cdfb51b505010880cfc88cc4bcb53</application>
+        <file_path/>
+        <instance_id>2755a7e1db183700b847ac44d496191e</instance_id>
+        <instance_name>dev76199</instance_name>
+        <name>sys_ui_section_c36c34661b101010880cfc88cc4bcb0d</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="New Section" section_id="c36c34661b101010880cfc88cc4bcb0d" sys_domain="global" table="x_482391_psd_procu_psd_procurement_table" version="3" view=""><sys_ui_element action="INSERT_OR_UPDATE"><element>order_status</element><position>0</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-04-23 16:15:58</sys_created_on><sys_id>9adcf8661b101010880cfc88cc4bcb11</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="New Section" display_value="New Section" name="x_482391_psd_procu_psd_procurement_table" sys_domain="global" view="Default view">c36c34661b101010880cfc88cc4bcb0d</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-04-23 16:15:58</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption>New Section</caption><header>false</header><name>x_482391_psd_procu_psd_procurement_table</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-04-23 16:14:07</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>c36c34661b101010880cfc88cc4bcb0d</sys_id><sys_mod_count>0</sys_mod_count><sys_name>New Section</sys_name><sys_overrides/><sys_package display_value="PSD Procurement" source="x_482391_psd_procu">189cdfb51b505010880cfc88cc4bcb53</sys_package><sys_policy/><sys_scope display_value="PSD Procurement">189cdfb51b505010880cfc88cc4bcb53</sys_scope><sys_update_name>sys_ui_section_c36c34661b101010880cfc88cc4bcb0d</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-04-23 16:14:07</sys_updated_on><sys_user/><title>false</title><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>2060684125</payload_hash>
+        <record_name>PSD Procurement</record_name>
+        <reverted_from/>
+        <source>989c13bd1bd05010880cfc88cc4bcb9e</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-23 16:15:58</sys_created_on>
+        <sys_id>12dcf8661b101010880cfc88cc4bcb13</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>171a7d30c4f0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-23 16:15:58</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>9adcf86695101010ffe33df66afa4112</update_guid>
+        <update_guid_history>9adcf86695101010ffe33df66afa4112:2060684125,976c34663010101082a06df3cf68d018:-578989074</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-23 16:16:31</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>230b36f8d47a4600abab3efaefddb900</sys_id>
+        <sys_metadata>c36c34661b101010880cfc88cc4bcb0d</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New Section</sys_name>
+        <sys_package display_value="PSD Procurement" source="x_482391_psd_procu">189cdfb51b505010880cfc88cc4bcb53</sys_package>
+        <sys_parent display_value="PSD Procurement">589cdfb51b505010880cfc88cc4bcb53</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="PSD Procurement">189cdfb51b505010880cfc88cc4bcb53</sys_scope>
+        <sys_scope_delete display_value="">4006c2f34759481e906572c756151c79</sys_scope_delete>
+        <sys_update_name>sys_ui_section_c36c34661b101010880cfc88cc4bcb0d</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_c36c34661b101010880cfc88cc4bcb0d">12dcf8661b101010880cfc88cc4bcb13</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-23 16:16:31</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
